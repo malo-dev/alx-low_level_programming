@@ -2,12 +2,7 @@
 **0x15. C - File I/O**
 
 ## Author's Details
-Name: *Wendy Munyasi.*
-
-Email: *wendymunyasi@gmail.com*
-
-Tel: *+254707240068.*
-
+lEADER MUSHIO
 ##  Requirements
 *   Allowed editors: `vi`, `vim`, `emacs`.
 *   All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options `-Wall -Werror -Wextra -pedantic -std=gnu89`.
@@ -46,4 +41,4 @@ What is the difference between a function and a system call.
 
 ## Collaborate
 
-To collaborate, reach me through my email address wendymunyasi@gmail.com.
+To collaborate, reach me through my email address leadermushio377@gmail.com.
